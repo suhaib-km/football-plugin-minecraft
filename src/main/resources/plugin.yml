@@ -1,0 +1,16 @@
+name: FootballCraft
+author: FootballCraft
+version: 1.0
+main: org.FBC.core.Main
+description: FootballCraft core plugin
+
+commands:
+    t:
+        usage: /<command>
+        description: Team chat
+    team:
+        usage: /<command>
+        description: Team commands
+    fb:
+        usage: /<command>
+        description: Football commands
